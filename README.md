@@ -1,6 +1,6 @@
 # Summarizer
 <p align="center" >
- <img src="sumz" width="70%"> </p>
+ <img src="sumz.png" width="70%"> </p>
 
 Welcome to my full stack web application! This is a comprehensive application that includes both front-end and back-end development components. It's designed to be flexible and scalable, allowing users to find summary of any any article online with ease.
 
